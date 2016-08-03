@@ -9,5 +9,12 @@ public class Programm {
         int a;
         a=38;
         System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
     }
 }
